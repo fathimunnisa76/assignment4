@@ -1,0 +1,11 @@
+15.A function is a set of code that only runs when it is called and we can pass parameters into it.
+
+16.A type() function is a block of code that returns the data type of the given data whether it is int or float or str or list or tuple or 
+   dict or set or any data type in python.
+
+17.print() function is a set of code that displays the text we pass into it or if we pass a variable in it, it will display the value of  
+   that variable.
+
+18.Over writing in python is same as replacing the data or updating the data. For example, if we create a variable again with another value
+   with same variable it will take the new value in that variable. 
+ 
